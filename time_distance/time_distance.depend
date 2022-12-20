@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1671559191 source:d:\c_programs\time_distance\main.c
+	<stdio.h>
+	<stdlib.h>
+
